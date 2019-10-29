@@ -6,11 +6,11 @@ This lab will set up the Watson Studio environment for subsequent labs and intro
 
 ## Objectives:
 
-Upon completing the lab, you will:
-1.	Create a project 
-1.	Create an object storage instance and associate it with the project
-1.	Associate an existing Watson Machine Learning service instance with the project
-1. 	Add a collaborator to the project 
+Upon completing the lab, you will have:
+1.	Created a project 
+1.	Created an object storage instance and associated it with the project
+1.	Associated an existing Watson Machine Learning service instance with the project
+1. 	Added a collaborator to the project 
 
 ### Step 1.  Please click on the link below to download the instructions to your machine.
 
