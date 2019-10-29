@@ -13,12 +13,12 @@ The notebook uses Python 3.5 runtime, XGBoost 0.6 and Scikit-Learn 0.17.
 Upon completing the lab, you will know how to:
 
 1. Load a CSV file into Pandas DataFrame.
-1. Data exploration using Pixiedust
+1. Explore data using Pixiedust
 1. Prepare data for training and evaluation.
-1. Create, train, and evaluate a XGBoost model.  
+1. Create, train, and evaluate an XGBoost model.  
 1. Visualize the importance of features that were used to train the model.
 1. Use cross validation to select optimal model hyperparameters based on a parameter grid
-1. Persist best model in Watson Machine Learning repository using Python client library.
+1. Persist the best model in Watson Machine Learning repository using Python client library.
 1. Deploy the model for online scoring using the Watson Machine Learning's REST APIs
 
 
